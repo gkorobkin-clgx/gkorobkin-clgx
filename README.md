@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Genn Korobkin / @gkorobkin-clgx
-- 👀 I’m interested in C++ and CoreLogic
-- 🌱 I’m currently learning Python, ASW, GCP, CoreLogic business, ...
+- 👀 I’m interested in C++ and Cotality
+- 🌱 I’m currently learning Python, AI, GCP, Cotality business, ...
 - 💞️ I’m looking to collaborate on Risk Models
-- 📫 How to reach me gkorobkin@corelogic.com
+- 📫 How to reach me gkorobkin@cotality.com
 - 😄 Pronouns: Genn
 - ⚡ Fun fact: 😄
 
